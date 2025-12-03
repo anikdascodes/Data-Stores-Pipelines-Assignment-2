@@ -1,0 +1,2 @@
+v1
+{"path":"file:///datalake/output/orders/date=2025-12-03/part-00000-84c83951-5af7-40b9-8d5e-4cb9e96b2f33.c000.snappy.parquet","size":2762,"isDir":false,"modificationTime":1764778519922,"blockReplication":1,"blockSize":33554432,"action":"add"}

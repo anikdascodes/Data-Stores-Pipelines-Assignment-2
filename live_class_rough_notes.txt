@@ -1,0 +1,84 @@
+
+Kafka
+
+
+RDBMS...Postgresql...insert
+
+orders...
+
+
+read ... postgre sql table:orders..... Pyspark ... 
+
+1. connect to this Psql
+2. Identify the new records ... inserts 
+3. Kafka producer .... read those messages ... convert this messages into json format.....produce into kafka topic 
+
+
+Kafka consumer side :
+
+
+
+40 : assignments .. 20 + 20
+25 : quiz
+35 : final exam
+
+
+
+
+
+1. read the messages from your kafka topic
+2. clean... null values ...remove those records ...
+3. ingest into parquet file formats ..
+
+====
+
+100 records .... ingested those 100 into data lake
+20 records ... ingest 20 records ......
+
+..... micro batch...  5 seconds ..... 
+
+1. 2025-11-23 21:14:10.789.... 100
+
+2. 20 records... 
+
+> 2025-11-23 21:14:10.789
+
+2025-11-23 21:14:11.789
+2025-11-23 21:14:11.999
+
+2025-11-23
+
+
+==
+
+
+Producer : 10 Marks
+
+Consumer : 10 Marks 
+
+
+1.... 10 records .....
+
+10 records .... parquet.... 10 marks
+
+
+
+2...... 10 records .. 5 null issues.... 5 clean
+
+
+5 records .... parquet... 10 marks ... 0 
+
+
+============
+
+
+
+
+
+
+
+
+
+
+
+
